@@ -70,6 +70,17 @@ Adjustments to existing routines based on progress, feedback, and data analysis.
  
 > Matplotlib or OpenCV for displaying feedback overlays and visualizations.
 
+
+## API's
+1. For Recipe: Yummly, Spoonacular
+2. Food Database: Open Food Facts
+3. Nutrition Analysis: FatSecret
+4. Fitness Data API: Strava, Fitbit
+5. Pose Estimation: Tensorflow Lite MoveNet, Alphapose, OpenPOse
+6. Computer Vision: Opencv
+7. Gamification: Gamify, Bunchball
+8. Community: PubNub, Firebase Realtime Database
+
  
    
 
